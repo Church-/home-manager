@@ -110,6 +110,7 @@ let
     (loadModule ./programs/vim.nix { })
     (loadModule ./programs/vscode.nix { })
     (loadModule ./programs/vscode/haskell.nix { })
+    (loadModule ./programs/weechat.nix { })
     (loadModule ./programs/z-lua.nix { })
     (loadModule ./programs/zathura.nix { })
     (loadModule ./programs/zsh.nix { })
